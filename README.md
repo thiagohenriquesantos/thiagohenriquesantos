@@ -30,7 +30,7 @@ I'm a Full Stack Developer 💻!
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=6aa6f8)
 
 </br>
 
