@@ -12,7 +12,7 @@ Hi there, I'm Thiago 👋
 I'm a Full Stack Developer 💻!
 </h2>
 
-[![Linkedin: thiagocolman](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocolman/)](https://www.linkedin.com/in/thiagocolman/)
+[![Linkedin: thiagocolman](https://img.shields.io/badge/-thiagocolman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocolman/)](https://www.linkedin.com/in/thiagocolman/)
 [![GitHub Thiago](https://img.shields.io/github/followers/thiagohenriquesantos?label=follow&style=social)](https://github.com/thiagohenriquesantos)
 
 ## 📈 GitHub Stats
